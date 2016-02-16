@@ -1,2 +1,4 @@
 # hello-world
-Git tutorial
+
+##Git tutorial:
+This is a simple tutorial
